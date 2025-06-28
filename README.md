@@ -3,6 +3,7 @@ This project Is a Capstone Project which contains SQL-based business intelligenc
 
 ## Project Contents
 KMS DATA Queries
+
 KMS Data set 
 
 ## Case Study Objectives
